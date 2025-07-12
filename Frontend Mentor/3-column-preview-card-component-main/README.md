@@ -7,8 +7,8 @@ The goal is to build a responsive 3-column layout card using **HTML** and **CSS*
 
 ## 🖼️ Preview
 
-![Desktop Preview](./Desktop View.png)
-![Desktop Preview](./Mobile View.png)
+![Desktop Preview](./Desktop%20View.png)
+![Desktop Preview](./Mobile%20View.png)
 
 
 ---
