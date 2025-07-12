@@ -42,5 +42,7 @@ https://github.com/VikashYadavVicky/CSS-Projects.git
 
 > 📝 Click the preview link to view full project details.
 
-📄 License
+## 📄 License
+
 All projects are open-source and free to use under the MIT License.
+
