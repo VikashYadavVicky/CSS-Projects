@@ -23,8 +23,7 @@ These projects are created to:
 2. Open any project folder  
 3. Run the HTML file in your browser  
 
-```bash
-ghttps://github.com/VikashYadavVicky/CSS-Projects.git
+https://github.com/VikashYadavVicky/CSS-Projects.git
 
 ## 📁 Project Categories
 
