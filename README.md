@@ -38,7 +38,7 @@ https://github.com/VikashYadavVicky/CSS-Projects.git
 | 3 Column Preview Card                | 👉 [Click to preview](Frontend%20Mentor/3-column-preview-card-component-main/README.md) | `Frontend Mentor/3-column-preview-card-component-main`     |
 | QR Code Component                    | 👉 [Click to preview](Frontend%20Mentor/QR-code-component-main/README.md)                | `Frontend Mentor/QR-code-component-main`                  |
 | Results Summary Component            | 👉 [Click to preview](Frontend%20Mentor/Results-summary-component-main/README.md)         | `Frontend Mentor/Results-summary-component-main`           |
-| Social Links Profile                 | 👉 [Click to preview](Frontend%20Mentor/Social-links-profile-main/README.md)              | `Frontend Mentor/Social-links-profile-main`                |
+| Social Links Profile                 | 👉 [Click to preview](Frontend%20Mentor/Social-links-profile-main/Social-links-profile-main/README.md)              | `Frontend Mentor/Social-links-profile-main`                |
 
 > 📝 Click the preview link to view full project details.
 
