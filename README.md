@@ -42,6 +42,53 @@ https://github.com/VikashYadavVicky/CSS-Projects.git
 
 > 📝 Click the preview link to view full project details.
 
+## 📥 How to Download a Single Project Folder
+
+If you want to download only one specific project from this repository (like a challenge from the `Frontend Mentor` folder), here are three easy options:
+
+---
+
+### ✅ Option 1: Manual Download via ZIP
+
+1. Open the GitHub repo in your browser.
+2. Navigate to the specific folder you want to download.
+3. Click the green **`Code`** button, then click **`Download ZIP`**.
+4. Extract the ZIP and use only the folder you need.
+
+> 🔸 This downloads the whole repo — you can delete the other folders after extracting.
+
+---
+
+### ✅ Option 2: Use a 3rd-Party Tool (Recommended)
+
+You can use this tool to download **just one folder**:
+
+🔗 [download-directory.github.io](https://download-directory.github.io/)
+
+**Steps:**
+1. Open the link above.
+2. Paste the folder URL you want to download. Example:
+   https://github.com/your-username/css-projects/tree/main/Frontend%20Mentor/project-folder-name
+
+3. Click **Download** — the site will generate a ZIP of just that folder.
+
+> ✅ No extra tools or Git required!
+
+---
+
+### ✅ Option 3: Git Sparse-Checkout (For Developers)
+
+If you're using Git and want to clone only a specific folder:
+
+```bash
+git clone --filter=blob:none --no-checkout https://github.com/your-username/css-projects.git
+cd css-projects
+git sparse-checkout init --cone
+git sparse-checkout set "Frontend Mentor/project-folder-name"
+git checkout
+
+
+
 ## 📄 License
 
 All projects are open-source and free to use under the MIT License.
