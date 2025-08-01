@@ -10,7 +10,6 @@ The goal is to build a clean, responsive profile card with social media links us
 ![Desktop Preview](./img/Desktop-View.png)  
 ![Mobile Preview](./img/Mobile-View.png)
 
-> Ensure the images are located inside `images/` folder with correct names.
 
 ---
 

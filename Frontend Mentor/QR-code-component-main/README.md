@@ -10,7 +10,6 @@ The goal is to build a clean and centered QR code card using **HTML** and **CSS*
 ![Desktop Preview](./images/Desktop-View.png)
 ![Mobile Preview](./images/Mobile-View.png)
 
-> Make sure the above images exist at: `images/Desktop-View.png` and `images/Mobile-View.png`.
 
 ---
 

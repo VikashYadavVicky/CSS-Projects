@@ -30,6 +30,8 @@ https://github.com/VikashYadavVicky/CSS-Projects.git
 - **Frontend Mentor Projects**  
   Real-world challenges from [Frontend Mentor](https://www.frontendmentor.io/) to practice modern CSS layouts and components.
 
+- **Landing Pages Projects**  
+  Real-world Landing Pages.
 
 ## 💼 Frontend Mentor Projects
 
@@ -40,6 +42,15 @@ https://github.com/VikashYadavVicky/CSS-Projects.git
 | Results Summary Component            | 👉 [Click to preview](Frontend%20Mentor/Results-summary-component-main/README.md)         | `Frontend Mentor/Results-summary-component-main`           |
 | Social Links Profile                 | 👉 [Click to preview](Frontend%20Mentor/Social-links-profile-main/Social-links-profile-main/README.md)              | `Frontend Mentor/Social-links-profile-main`                |
 | Css Grid Project                     | 👉 [Click to preview](Frontend%20Mentor/Css-Grid-Project/README.md)              |  `Frontend Mentor/Css-Grid-Project`           
+
+
+## 💼 Landing Pages
+
+| Project Name                          | Preview                                                  | Folder Path                                               |
+|--------------------------------------|-----------------------------------------------------------|------------------------------------------------------------|
+| Landing Page 01              | 👉 [Click to preview](./Landing%20Pages/Landing-Page-01/LP01_Readme.md) | `Landing Pages/Landing-Page-01/`     |
+| Landing Page 01                    | 👉 [Click to preview](./Landing%20Pages/Landing-Page-02/LP02_Readme.md)                | `Landing Pages/Landing-Page-02/`                  |         
+
 
 > 📝 Click the preview link to view full project details.
 
