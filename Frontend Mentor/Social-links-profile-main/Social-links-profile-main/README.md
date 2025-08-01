@@ -18,7 +18,6 @@ The goal is to build a clean, responsive profile card with social media links us
 
 🔗 [Click here to view live project](https://your-username.github.io/css-projects/Frontend%20Mentor/Social-links-profile-main/)
 
-> Replace `your-username` with your actual GitHub username.
 
 ---
 
@@ -34,3 +33,7 @@ The goal is to build a clean, responsive profile card with social media links us
 
 ## 📁 Folder Structure
 
+├── index.html
+├── style.css
+├── images/
+└── README.md

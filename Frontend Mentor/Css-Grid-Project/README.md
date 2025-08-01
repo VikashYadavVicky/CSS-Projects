@@ -1,6 +1,6 @@
 # 📱 QR Code Component
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).  
+This is a solution to the [Css-Grid-Project](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).  
 The goal is to build a clean and centered QR code card using **HTML** and **CSS** only — no JavaScript involved.
 
 ---
@@ -9,6 +9,7 @@ The goal is to build a clean and centered QR code card using **HTML** and **CSS*
 
 ![Desktop Preview](./images/Desktop-View.png)
 ![Mobile Preview](./images/Mobile-View.png)
+![Tablet Preview](./images/Tablet-View.png)
 
 > Make sure the above images exist at: `images/Desktop-View.png` and `images/Mobile-View.png`.
 
@@ -16,7 +17,7 @@ The goal is to build a clean and centered QR code card using **HTML** and **CSS*
 
 ## 🌐 Live Demo
 
-🔗 [Click here to view live project](https://your-username.github.io/css-projects/Frontend%20Mentor/QR-code-component-main/)
+🔗 [Click here to view live project](https://your-username.github.io/css-projects/Frontend%20Mentor/Css-Grid-Project/)
 
 ---
 
@@ -35,3 +36,4 @@ The goal is to build a clean and centered QR code card using **HTML** and **CSS*
 ├── style.css
 ├── images/
 └── README.md
+
