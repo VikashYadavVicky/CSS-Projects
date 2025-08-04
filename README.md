@@ -53,6 +53,14 @@ https://github.com/VikashYadavVicky/CSS-Projects.git
 | Landing Page 03                    | 👉 [Click to preview](./Landing%20Pages/Landing-Page-03/Readme.md)                | `Landing Pages/Landing-Page-03/`                  |         
 
 
+## 💼 Small Projects
+
+| Project Name                          | Preview                                                  | Folder Path                                               |
+|--------------------------------------|-----------------------------------------------------------|------------------------------------------------------------|
+| Image Overlap Stack             | 👉 [Click to preview](./Small-Projects/Image%20Overlap%20Stack/Readme.md) | `Small-Projects/Image Overlap Stack/`     |
+   
+
+
 > 📝 Click the preview link to view full project details.
 
 ## 📥 How to Download a Single Project Folder
