@@ -92,7 +92,7 @@ Assignment-2/
 ## 🧑‍💻 Author
 
 **Vikash Yadav**  
-*Python & Web Developer*
+
 
 ---
 
